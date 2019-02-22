@@ -1,5 +1,5 @@
 addons:
   sonarcloud:
-    organization: "lviennois"
+    organization: "lviennois-github"
 script:
   - sonar-scanner
