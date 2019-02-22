@@ -1,0 +1,5 @@
+addons:
+  sonarcloud:
+    organization: "lviennois"
+script:
+  - sonar-scanner
